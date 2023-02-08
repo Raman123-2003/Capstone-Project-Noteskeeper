@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Capstone-Project-Noteskeeper/static/css/main.0e6bdc66.css",
+    "main.js": "/Capstone-Project-Noteskeeper/static/js/main.e0a5929f.js",
+    "static/media/notesPics.jpg": "/Capstone-Project-Noteskeeper/static/media/notesPics.6c8457efb531d54307c1.jpg",
+    "static/media/logo-1.png": "/Capstone-Project-Noteskeeper/static/media/logo-1.8ef4bcc20f18a034210f.png",
+    "index.html": "/Capstone-Project-Noteskeeper/index.html",
+    "main.0e6bdc66.css.map": "/Capstone-Project-Noteskeeper/static/css/main.0e6bdc66.css.map",
+    "main.e0a5929f.js.map": "/Capstone-Project-Noteskeeper/static/js/main.e0a5929f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e6bdc66.css",
+    "static/js/main.e0a5929f.js"
+  ]
+}
